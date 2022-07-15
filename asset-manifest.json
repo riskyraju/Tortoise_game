@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tortoise_game/static/css/main.e474fe8f.css",
+    "main.js": "/Tortoise_game/static/js/main.2ebdf5e0.js",
+    "static/js/787.e583a0bc.chunk.js": "/Tortoise_game/static/js/787.e583a0bc.chunk.js",
+    "index.html": "/Tortoise_game/index.html",
+    "main.e474fe8f.css.map": "/Tortoise_game/static/css/main.e474fe8f.css.map",
+    "main.2ebdf5e0.js.map": "/Tortoise_game/static/js/main.2ebdf5e0.js.map",
+    "787.e583a0bc.chunk.js.map": "/Tortoise_game/static/js/787.e583a0bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e474fe8f.css",
+    "static/js/main.2ebdf5e0.js"
+  ]
+}
